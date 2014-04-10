@@ -1,2 +1,2 @@
---color --format --fail-fast
+--color --format documentation --fail-fast
 
